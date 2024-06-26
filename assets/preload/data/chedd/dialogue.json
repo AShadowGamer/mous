@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait wtf how did you beat me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh you just made it easy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah like what the fu-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how many times do i have to tell you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ok fine."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "btw wtf why did i made it easy?! i though it was gonna be hard as shit!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "well make it hard then, bitch!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alrighty then i will make it hard you cock sucker!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ok y u bullying us for no reason?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cuz u 2 are stupid"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stupid ass mf bitch lmao."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "WILL YOU STOP CALLING ME A BITCH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thefrigginmouse",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyways let's just fucking go to the next song, shall we?"
+		}
+	]
+}

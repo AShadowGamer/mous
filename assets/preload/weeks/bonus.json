@@ -1,0 +1,76 @@
+{
+	"storyName": "fucking bonus, what else?",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"2 Mouses 1 BF",
+			"thefrigginmouse_n_mickey",
+			[
+				255,
+				0,
+				106
+			]
+		],
+		[
+			"Mousecapade",
+			"mickeynes",
+			[
+				255,
+				0,
+				106
+			]
+		],
+		[
+			"Die Remix",
+			"thefrigginangrymouse",
+			[
+				195,
+				0,
+				120
+			]
+		],
+		[
+			"Purgamousi",
+			"creepymouse",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"The Friggin Storm",
+			"thefrigginmouse",
+			[
+				255,
+				0,
+				106
+			]
+		],
+		[
+			"mouseERR",
+			"frig_err",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"urmom",
+		"urdad",
+		"urbrubber"
+	],
+	"weekName": "Custom Week"
+}

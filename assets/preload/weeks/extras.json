@@ -1,0 +1,39 @@
+{
+	"storyName": "wait, there's more? OOOH NOOO!",
+	"hideFreeplay": false,
+	"weekBackground": "extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekmouse2",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Laffers",
+			"laffers",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Elm",
+			"elm",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
